@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Le Cordon Bleu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Instituto</string>
+    <string name="nav_header_subtitle">reloader@lecordonbleu.edu.pe</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_inicio">Inicio</string>
+    <string name="action_cesion">Cerrar Sesión</string>
+
+    <string name="menu_home">Mi QR</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="iniciar_sesion">Ingresar</string>
+    <string name="iclb_microsoft">ICLB Sesión Microsoft</string>
+    <string name="action_siguiente">Siguiente</string>
+    <string name="action_obtenerdata">Obteniendo datos...</string>
+    <string name="correo_institucional">CORREO INSTITUCIONAL</string>
+    <string name="action_contrasenha">Olvidaste tu Contraseña</string>
+    <string name="action_internet">sin conexión a internet</string>
+    <string name="login_title">Intranet Estudiante</string>
+    <string name="texto_referencia_qr">Escanea tu QR para poder acceder\n a tu Aula de Clases</string>
+    <string name="msg_error_login">usuario o contraseña incorrecto</string>
+    <string name="title_activity_content_principal">InicioActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_image">Galeria</string>
+    <string name="title_cursos">Cursos</string>
+    <string name="title_horario">Horario</string>
+    <string name="title_asistencia">Asistencia</string>
+
+
+</resources>

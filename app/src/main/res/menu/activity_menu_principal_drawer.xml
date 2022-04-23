@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_gallery2"
+            android:icon="@drawable/ic_school"
+            android:title="Historial Académico" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_check_box"
+            android:title="Novedades" />
+
+        <item
+            android:id="@+id/nav_home1"
+            android:icon="@drawable/ic_money"
+            android:title="Cuenta Corriente" />
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_notifications"
+            android:title="Notificaciones" />
+
+
+        <item
+            android:id="@+id/nav_principal"
+            android:icon="@drawable/ic_settings"
+            android:title="Configuración" />
+
+        <item
+            android:id="@+id/nav_slideshow3"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/nav_home4"
+            android:icon="@drawable/ic_menu_camera"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_gallery5"
+            android:icon="@drawable/ic_menu_gallery"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_slideshow6"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/nav_home7"
+            android:icon="@drawable/ic_menu_camera"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_gallery8"
+            android:icon="@drawable/ic_menu_gallery"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_slideshow9"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:visible="false" />
+    </group>
+
+
+</menu>

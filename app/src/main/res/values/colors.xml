@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#182957</color>
+    <color name="colorPrimaryDark">#132043</color>
+    <color name="colorAccent">#4fc3f7</color>
+    <color name="grey_20">#686868</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPerfil">#fcead5</color>
+    <color name="colorTextPerfil">#916331</color>
+    <color name="colorGold">#978640</color>
+    <color name="colorCircleOn">#337035</color>
+    <color name="colorCircleOff">#cfbd67</color>
+    <color name="colorHeadTitle">#336f70</color>
+
+    <color name="colorSintoma">#336f70</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#B60707</color>
+    <color name="colorHelp">#0084c7</color>
+    <color name="bleucolor">#1e2b50</color>
+
+
+    <item name="colorApp_16" type="color">#bbc274</item>
+    <item name="colorApp_15" type="color">#5d747a</item>
+    <item name="colorApp_3" type="color">#08c7fb</item>
+    <item name="colorApp_4" type="color">#5d61c8</item>
+    <item name="colorApp_5" type="color">#7719aa</item>
+    <item name="colorApp_6" type="color">#d82625</item>
+    <item name="colorApp_7" type="color">#5056b2</item>
+    <item name="colorApp_8" type="color">#005a9e</item>
+    <item name="colorApp_9" type="color">#f2c811</item>
+    <item name="colorApp_14" type="color">#cfe0d6</item>
+    <item name="colorApp_13" type="color">#f4d7d9</item>
+    <item name="colorApp_12" type="color">#f4d7d9</item>
+    <item name="colorApp_11" type="color">#00a82d</item>
+    <item name="colorApp_10" type="color">#f08705</item>
+    <item name="colorApp_2" type="color">#ec2688</item>
+    <item name="colorApp_1" type="color">#0063dd</item>
+
+
+    <integer-array name="androidcolors">
+        <item>@color/colorApp_1</item>
+        <item>@color/colorApp_6</item>
+        <item>@color/colorApp_3</item>
+        <item>@color/colorApp_4</item>
+        <item>@color/colorApp_5</item>
+        <item>@color/colorApp_4</item>
+        <item>@color/colorApp_7</item>
+        <item>@color/colorApp_8</item>
+        <item>@color/colorApp_7</item>
+        <item>@color/colorApp_10</item>
+        <item>@color/colorApp_11</item>
+        <item>@color/colorApp_12</item>
+        <item>@color/colorApp_13</item>
+        <item>@color/colorApp_14</item>
+        <item>@color/colorApp_15</item>
+        <item>@color/colorApp_16</item>
+    </integer-array>
+
+
+</resources>
